@@ -1,4 +1,6 @@
 # syncordis
 A sample project for custom theme in wordpress
 
-![alt text](https://github.com/nvntkriz096/syncordis/blob/main/syncordis-d.jpeg?raw=true)
+Also uploaded All-in-One WP Migration and Backup in this repository.
+
+<img src="https://github.com/nvntkriz096/syncordis/blob/main/syncordis-d.jpeg" width="300">
